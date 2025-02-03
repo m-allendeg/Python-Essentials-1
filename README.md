@@ -1,2 +1,2 @@
 # Python-Essentials-1
-"¡Hola! Soy Marcos, actualmente estoy estudiando el grado oficial de programación. No obstante, también estoy cursando de forma autodidacta varios cursos para complementar mi formación. En este caso, un curso sobre los fundamentos de Python. En este repositorio iré subiendo poco a poco todas las prácticas.
+Hello! I'm Marcos, I'm currently studying an official degree in programming. However, I'm also taking some courses to complement my training. In this case, a course on the basics of Python. In this repository I will be uploading little by little all the practices, both to help if someone needs it and for those who want to help me. Thanks and best regards.
