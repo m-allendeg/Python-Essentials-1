@@ -1,2 +1,2 @@
 # Python-Essentials-1
-Module 1 Introduction to Python and Computer Programming. Module 2 Types of variable data, Basic input and output operations, Basic operators. Module 3 Boolean values, Conditional execution, Loops, Lists and their processing, Logical and Bit-to-Bit operations. Module 4 Functions, Tuples, Dictionaries, Exceptions and Data Processing.
+"¡Hola! Soy Marcos, actualmente estoy estudiando el grado oficial de programación. No obstante, también estoy cursando de forma autodidacta varios cursos para complementar mi formación. En este caso, un curso sobre los fundamentos de Python. En este repositorio iré subiendo poco a poco todas las prácticas.
